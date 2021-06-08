@@ -17,6 +17,17 @@ El sitio constará de: </br>
 ◾ Preguntas Frecuentes: respuestas a preguntas comunes sobre funcionamiento del sitio, compra, envíos, o problemas que puedan surgir en la navegación de la misma.</br>
 ◾ Contacto: Información de contacto con la empresa y sus redes sociales. </br>
 ◾ Políticas de Privacidad y Cookies.</h4>
+<h3> 💡 Publico objetivo 💡 </h3>
+<h4></h4>
+<h3> 🔎 Listado de 5 paginas referentes 🔎 </h3>
+<h4> https://onlyfantasy.cl/ </br>
+https://www.buttman.com.ar/ </br>
+https://extasy.com.ar/ </br>
+https://www.sexplace.pro/ </br>
+https://eclipsiasexshop.com/ </h4>
+<h3> ⚙ Link del tablero de trabajo ⚙ </h3>
+<h4> https://trello.com/invite/b/uM5hK1Es/d6e0adfd93056bcd220dd37ba316fd55/proyecto-grupo-6 </h4>
+
 
 
 
