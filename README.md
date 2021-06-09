@@ -18,8 +18,7 @@ El sitio constará de: </br>
 ◾ Contacto: Información de contacto con la empresa y sus redes sociales. </br>
 ◾ Políticas de Privacidad y Cookies.</h4>
 <h3> 💡 Publico objetivo 💡 </h3>
-Personas humanas mayores de 18 años, con los sentidos despiertos.
-<h4></h4>
+<h4>Personas humanas mayores de 18 años, con los sentidos despiertos.</h4>
 <h3> 🔎 Listado de 5 paginas referentes 🔎 </h3>
 <h4> https://onlyfantasy.cl/ </br>
 https://www.buttman.com.ar/ </br>
